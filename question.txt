@@ -1,0 +1,4 @@
+What is the relationship betweeh %dh and %dx? 
+What is the meaning of flag in GDT? 
+What is the meaning of flag in IDT? 
+What does each part of the remapping process of PIC does?
